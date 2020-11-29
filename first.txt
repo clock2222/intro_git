@@ -4,3 +4,4 @@ gitの練習をしていきます
 .git comm
 .git rm
 .git status
+.git diff
